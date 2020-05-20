@@ -1,7 +1,16 @@
-# VS Code | List Plugins
+# VS Code | List Plugins & Snippets
 
 [VSCode] is a popular code editor for HTML, CSS, SCSS, JS and other programming languages.
 Using plugins the editor can be turned into a powerful environment for developing applications and websites.
+
+## Keyboard Shortcuts
+* [Windows]
+* [MacOS]
+* [Linux]
+
+[Windows]: https://github.com/GrafSoul/vscode-plugins/doc/pdf/keyboard-shortcuts-windows.pdf
+[MacOS]: https://github.com/GrafSoul/vscode-plugins/doc/pdf/keyboard-shortcuts-macos.pdf
+[Linux]: https://github.com/GrafSoul/vscode-plugins/doc/pdf/keyboard-shortcuts-linux.pdf
 
 ## List of plugins
 * **[All Autocomplete]** - Create autocomplete items from open files in VSCode.
@@ -60,6 +69,13 @@ Using plugins the editor can be turned into a powerful environment for developin
 [Lorem ipsum]: https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum
 [Theme - Oceanic Next]: https://marketplace.visualstudio.com/items?itemName=naumovs.theme-oceanicnext
 [vscode-icons]: https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
+
+## Snippets
+* Emmet
+* JavaScript (ES6) code snippets
+* ES7 React/Redux/GraphQL/React-Native Snippets
+* Vue 3 Snippets
+* Reactjs code snippets
 
 ## TODO
 Adding snippets for 'Emmet', 'JavaScript (ES6) code snippets',
