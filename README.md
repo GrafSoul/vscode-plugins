@@ -4,13 +4,13 @@
 Using plugins the editor can be turned into a powerful environment for developing applications and websites.
 
 ## Keyboard Shortcuts
-* [Windows]
-* [MacOS]
-* [Linux]
+* **[Windows]**
+* **[MacOS]**
+* **[Linux]**
 
-[Windows]: https://github.com/GrafSoul/vscode-plugins/doc/pdf/keyboard-shortcuts-windows.pdf
-[MacOS]: https://github.com/GrafSoul/vscode-plugins/doc/pdf/keyboard-shortcuts-macos.pdf
-[Linux]: https://github.com/GrafSoul/vscode-plugins/doc/pdf/keyboard-shortcuts-linux.pdf
+[Windows]: https://github.com/GrafSoul/vscode-plugins/blob/master/doc/pdf/keyboard-shortcuts-windows.pdf
+[MacOS]: https://github.com/GrafSoul/vscode-plugins/blob/master/doc/pdf/keyboard-shortcuts-macos.pdf
+[Linux]: https://github.com/GrafSoul/vscode-plugins/blob/master/doc/pdf/keyboard-shortcuts-linux.pdf
 
 ## List of plugins
 * **[All Autocomplete]** - Create autocomplete items from open files in VSCode.
