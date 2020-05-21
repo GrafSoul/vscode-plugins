@@ -1,4 +1,4 @@
-# VS Code | List Plugins & Snippets
+# VS Code | List Keyboard Shortcuts, Plugins & Snippets
 
 [VSCode] is a popular code editor for HTML, CSS, SCSS, JS and other programming languages.
 Using plugins the editor can be turned into a powerful environment for developing applications and websites.
@@ -8,11 +8,11 @@ Using plugins the editor can be turned into a powerful environment for developin
 * **[MacOS]**
 * **[Linux]**
 
-[Windows]: https://github.com/GrafSoul/vscode-plugins/blob/master/doc/pdf/keyboard-shortcuts-windows.pdf
-[MacOS]: https://github.com/GrafSoul/vscode-plugins/blob/master/doc/pdf/keyboard-shortcuts-macos.pdf
-[Linux]: https://github.com/GrafSoul/vscode-plugins/blob/master/doc/pdf/keyboard-shortcuts-linux.pdf
+[Windows]: https://github.com/GrafSoul/vscode-plugins/blob/master/doc/keyboard-shortcuts-windows.pdf
+[MacOS]: https://github.com/GrafSoul/vscode-plugins/blob/master/doc/keyboard-shortcuts-macos.pdf
+[Linux]: https://github.com/GrafSoul/vscode-plugins/blob/master/doc/keyboard-shortcuts-linux.pdf
 
-## List of plugins
+## Plugins
 * **[All Autocomplete]** - Create autocomplete items from open files in VSCode.
 * **[Auto Close Tag]** - Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text.
 * **[Auto Complete Tag]** - Extension Packs to add close tag and rename paired tag automatically for HTML/XML.
@@ -71,14 +71,17 @@ Using plugins the editor can be turned into a powerful environment for developin
 [vscode-icons]: https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
 
 ## Snippets
-* Emmet
+* Emmet. Sheet formats **[A5]** and **[A4]**
 * JavaScript (ES6) code snippets
 * ES7 React/Redux/GraphQL/React-Native Snippets
 * Vue 3 Snippets
 * Reactjs code snippets
 
+[A5]: https://github.com/GrafSoul/vscode-plugins/blob/master/doc/keyboard-shortcuts-emmet-a5.pdf
+[A4]: https://github.com/GrafSoul/vscode-plugins/blob/master/doc/keyboard-shortcuts-emmet-a4.pdf
+
 ## TODO
-Adding snippets for 'Emmet', 'JavaScript (ES6) code snippets',
+Adding snippets for 'JavaScript (ES6) code snippets',
 'ES7 React/Redux/GraphQL/React-Native Snippets', 'Vue 3 Snippets' 
 and 'Reactjs code snippets'.
 
