@@ -1,4 +1,4 @@
-# VS Code | List Keyboard Shortcuts, Plugins & Snippets
+# VS Code | List Keyboard Shortcuts, Plugins & Snippets for HTML, CSS, JavaScript, ReactJS, VueJS
 
 [VSCode] is a popular code editor for HTML, CSS, SCSS, JS and other programming languages.
 Using plugins the editor can be turned into a powerful environment for developing applications and websites.
