@@ -73,17 +73,18 @@ Using plugins the editor can be turned into a powerful environment for developin
 ## Snippets
 * **[Emmet - A5]** and **[Emmet- A4]** sheet formats 
 * **[JavaScript (ES6) code]**
-* ES7 React/Redux/GraphQL/React-Native Snippets
-* Vue 3 Snippets
+* **[ES7 React/Redux/GraphQL/React-Native]**
 * Reactjs code snippets
+* Vue 3 Snippets
+
 
 [Emmet - A5]: https://github.com/GrafSoul/vscode-plugins/blob/master/doc/keyboard-shortcuts-emmet-a5.pdf
 [Emmet- A4]: https://github.com/GrafSoul/vscode-plugins/blob/master/doc/keyboard-shortcuts-emmet-a4.pdf
 [JavaScript (ES6) code]: https://github.com/GrafSoul/vscode-plugins/blob/master/doc/keyboard-shortcuts-es6.pdf
+[ES7 React/Redux/GraphQL/React-Native]: https://github.com/GrafSoul/vscode-plugins/blob/master/doc/keyboard-shortcuts-es7.pdf
 
 ## TODO
-Adding snippets for 'ES7 React/Redux/GraphQL/React-Native Snippets', 'Vue 3 Snippets' 
-and 'Reactjs code snippets'.
+Adding snippets for 'Reactjs code snippets' and 'Vue 3 Snippets'.
 
 © 2020
 
