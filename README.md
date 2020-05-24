@@ -40,7 +40,10 @@ Using plugins the editor can be turned into a powerful environment for developin
 * **[Bracket Pair Colorizer]** - A customizable extension for colorizing matching brackets.
 * **[Lorem ipsum]** - Generates and inserts lorem ipsum text.
 * **[Theme - Oceanic Next]** - Oceanic Next theme for VSCode + dimmed bg version for better looking UI.
-* **[vscode-icons]** - Icons for Visual Studio Code
+* **[vscode-icons]** - Icons for Visual Studio Code.
+* **[Markdown PDF]** - This extension converts Markdown files to pdf, html, png or jpeg files.
+* **[vscode-pdf]** - Display pdf file in VSCode.
+
 
 [VSCode]: https://code.visualstudio.com/
 [All Autocomplete]: https://marketplace.visualstudio.com/items?itemName=Atishay-Jain.All-Autocomplete
@@ -70,22 +73,24 @@ Using plugins the editor can be turned into a powerful environment for developin
 [Lorem ipsum]: https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum
 [Theme - Oceanic Next]: https://marketplace.visualstudio.com/items?itemName=naumovs.theme-oceanicnext
 [vscode-icons]: https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
+[Markdown PDF]: https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf
+[vscode-pdf]: https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf
 
 ## Snippets
 * **[Emmet - A5]** and **[Emmet- A4]** sheet formats 
 * **[JavaScript (ES6) code]**
 * **[ES7 React/Redux/GraphQL/React-Native]**
-* Reactjs code snippets
-* Vue 3 Snippets
+* **[Reactjs code]**
+* **[Vue 3]**
 
 
 [Emmet - A5]: https://github.com/GrafSoul/vscode-plugins/blob/master/doc/keyboard-shortcuts-emmet-a5.pdf
 [Emmet- A4]: https://github.com/GrafSoul/vscode-plugins/blob/master/doc/keyboard-shortcuts-emmet-a4.pdf
 [JavaScript (ES6) code]: https://github.com/GrafSoul/vscode-plugins/blob/master/doc/keyboard-shortcuts-es6.pdf
 [ES7 React/Redux/GraphQL/React-Native]: https://github.com/GrafSoul/vscode-plugins/blob/master/doc/keyboard-shortcuts-es7.pdf
+[Reactjs code]: https://github.com/GrafSoul/vscode-plugins/blob/master/doc/keyboard-shortcuts-react.pdf
+[Vue 3]:  https://github.com/GrafSoul/vscode-plugins/blob/master/doc/keyboard-shortcuts-vue3.pdf
 
-## TODO
-Adding snippets for 'Reactjs code snippets' and 'Vue 3 Snippets'.
 
 © 2020
 
