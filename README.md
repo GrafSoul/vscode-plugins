@@ -20,6 +20,7 @@ Using plugins the editor can be turned into a powerful environment for developin
 * **[Auto Rename Tag]** - Auto rename paired HTML/XML tag.
 * **[Beautify]** - Beautify code in place for VS Code.
 * **[Prettier]** - Code formatter using prettier.
+* **[Code Spell Checker]** - Spelling checker for source code.
 * **[Code Runner]** Run code snippet or code file for multiple languages.
 * **[GitLens — Git supercharged]** - Supercharge the Git capabilities built into Visual Studio Code.
 * **[Version Lens]** - Shows the latest version for each package using code lens.
@@ -27,6 +28,7 @@ Using plugins the editor can be turned into a powerful environment for developin
 * **[Path Autocomplete]** - Provides path completion for visual studio code.
 * **[Live Server]** - Launch a development local Server with live reload feature for static & dynamic pages.
 * **[Multiple clipboards for VSCode]** - Override the regular Copy and Cut commands to keep selections in a clipboard ring.
+* **[Hyper JavaScript Snippets]** - A collection of snippets that cover JavaScript, TypeScript, and NodeJS for Visual Studio Code.
 * **[JavaScript (ES6) code snippets]** - Code snippets for JavaScript in ES6 syntax.
 * **[ES7 React/Redux/GraphQL/React-Native Snippets]** - Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax.
 * **[Reactjs code snippets]** - Code snippets for Reactjs development in ES6 syntax.
@@ -43,7 +45,6 @@ Using plugins the editor can be turned into a powerful environment for developin
 * **[vscode-icons]** - Icons for Visual Studio Code.
 * **[Markdown PDF]** - This extension converts Markdown files to pdf, html, png or jpeg files.
 * **[vscode-pdf]** - Display pdf file in VSCode.
-
 
 [VSCode]: https://code.visualstudio.com/
 [All Autocomplete]: https://marketplace.visualstudio.com/items?itemName=Atishay-Jain.All-Autocomplete
@@ -75,6 +76,8 @@ Using plugins the editor can be turned into a powerful environment for developin
 [vscode-icons]: https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
 [Markdown PDF]: https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf
 [vscode-pdf]: https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf
+[Hyper JavaScript Snippets]: https://marketplace.visualstudio.com/items?itemName=t7yang.hyper-javascript-snippets
+[Code Spell Checker]: https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
 
 ## Snippets
 * **[Emmet - A5]** and **[Emmet- A4]** sheet formats 
@@ -83,14 +86,12 @@ Using plugins the editor can be turned into a powerful environment for developin
 * **[Reactjs code]**
 * **[Vue 3]**
 
-
 [Emmet - A5]: https://github.com/GrafSoul/vscode-plugins/blob/master/doc/keyboard-shortcuts-emmet-a5.pdf
 [Emmet- A4]: https://github.com/GrafSoul/vscode-plugins/blob/master/doc/keyboard-shortcuts-emmet-a4.pdf
 [JavaScript (ES6) code]: https://github.com/GrafSoul/vscode-plugins/blob/master/doc/keyboard-shortcuts-es6.pdf
 [ES7 React/Redux/GraphQL/React-Native]: https://github.com/GrafSoul/vscode-plugins/blob/master/doc/keyboard-shortcuts-es7.pdf
 [Reactjs code]: https://github.com/GrafSoul/vscode-plugins/blob/master/doc/keyboard-shortcuts-react.pdf
 [Vue 3]:  https://github.com/GrafSoul/vscode-plugins/blob/master/doc/keyboard-shortcuts-vue3.pdf
-
 
 © 2020
 
