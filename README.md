@@ -5,7 +5,7 @@ For HTML, CSS, JavaScript, ReactJS, VueJS
 [VSCode] is a popular code editor for HTML, CSS, SCSS, JS and other programming languages.
 Using plugins the editor can be turned into a powerful environment for developing applications and websites.
 
-## Keyboard Shortcuts
+## VS Code Editor Keyboard Shortcuts
 
 - **[Windows]**
 - **[MacOS]**
@@ -15,7 +15,7 @@ Using plugins the editor can be turned into a powerful environment for developin
 [macos]: https://github.com/GrafSoul/vscode-plugins/blob/master/doc/keyboard-shortcuts-macos.pdf
 [linux]: https://github.com/GrafSoul/vscode-plugins/blob/master/doc/keyboard-shortcuts-linux.pdf
 
-## Plugins
+## Useful Plugins
 
 ### Code Style
 
@@ -163,7 +163,7 @@ Using plugins the editor can be turned into a powerful environment for developin
 [live pug compiler]: https://marketplace.visualstudio.com/items?itemName=jaheenafsarsyed.live-pug-compiler
 [google fonts]: https://marketplace.visualstudio.com/items?itemName=lior-chamla.google-fonts
 
-## Snippets
+## Snippets in PDF files
 
 - **[Emmet - A5]** and **[Emmet- A4]** sheet formats
 - **[JavaScript (ES6) code]**
