@@ -41,24 +41,25 @@ Using plugins the editor can be turned into a powerful environment for developin
 
 ### Useful
 
-- **[Vscode Google Translate]** - Translate text right in your code
+- **[Vscode Google Translate]** - Translate text right in your code.
 - **[Path Autocomplete]** - Provides path completion for visual studio code.
 - **[Lorem ipsum]** - Generates and inserts lorem ipsum text.
 - **[Live Server]** - Launch a development local Server with live reload feature for static & dynamic pages.
 - **[Multiple clipboards for VSCode]** - Override the regular Copy and Cut commands to keep selections in a clipboard ring.
-- **[Debugger for Chrome]** - Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
-  Trouble Installing?
-- **[Project Manager]** - Easily switch between projects
+- **[Debugger for Chrome]** - Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol. Trouble Installing?
+- **[Project Manager]** - Easily switch between projects.
 - **[Settings Sync]** - Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
 
-### JavaScript Snippets
+### JavaScript
 
+- **[jsflowchart]** - JS Flowchart in Real-time.
 - **[Hyper JavaScript Snippets]** - A collection of snippets that cover JavaScript, TypeScript, and NodeJS for Visual Studio Code.
 - **[JavaScript (ES6) code snippets]** - Code snippets for JavaScript in ES6 syntax.
 - **[ES7 React/Redux/GraphQL/React-Native Snippets]** - Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax.
 - **[React code snippets]** - Code snippets for Reactjs development in ES6 syntax.
 - **[Vue 3 Snippets]** - This extension adds Vue 3 and Vue 2 Code Snippets into Visual Studio Code.
 - **[Babel JavaScript]** - VSCode syntax highlighting for today's JavaScript, ported from gandm's language-babel for Atom.
+- **[jQuery Code Snippets]** - Over 130 jQuery Code Snippets.
 - **[ESLint]** - Integrates ESLint JavaScript into VS Code.
 - **[Quokka]** - Live Scratchpad for JavaScript.
 
@@ -68,17 +69,28 @@ Using plugins the editor can be turned into a powerful environment for developin
 - **[Live Sass Compiler]** - Compile Sass or Scss to CSS at realtime with live browser reload.
 - **[SCSS IntelliSense]** - Advanced autocompletion and refactoring support for SCSS.
 - **[SCSS Formatter]** - Advanced autocompletion and refactoring support for SCSS.
-- **[eCSStractor]** - Extracting selectors from HTML and generate CSS stylesheet.
 - **[CSS Navigation]** - Allows Go to Definition from HTML to CSS; provides Completion and Workspace Symbols for class & id name; supports CSS, Sass, Less languages.
+- **[eCSStractor]** - Extracting selectors from HTML and generate CSS stylesheet.
 
 ### BEM
 
 - **[BEM Helper]** - Improve writing html using BEM naming conventions.
 - **[SCSS BEM Support]** - BEM support for SCSS files.
 
+### Pug
+
+- **[Pug]** - Pug/Jade Snippets for VSCode.
+- **[Live Pug Compiler]** - Compile Pug to HTML at realtime with live browser reload.
+
 ### Images
 
-- **[Image preview]** - Shows image preview in the gutter and on hover
+- **[Image preview]** - Shows image preview in the gutter and on hover.
+- **[SVG]** - SVG Coding, Minify, Pretty, Preview All-In-One.
+
+### Fonts
+
+- **[Google Fonts]** - Allows you to browse and insert Google Fonts <link> or @import !.
+- **[SVG Font Previewer]** - Show the SVG font details, icons, icon name and icon unicode as hexadecimal value. It can also preview any valid SVG file.
 
 ### TODO
 
@@ -143,6 +155,13 @@ Using plugins the editor can be turned into a powerful environment for developin
 [project manager]: https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager
 [settings sync]: https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync
 [scss bem support]: https://marketplace.visualstudio.com/items?itemName=joloyonaha.scss-bem-support
+[svg]: https://marketplace.visualstudio.com/items?itemName=jock.svg
+[svg font previewer]: https://marketplace.visualstudio.com/items?itemName=nkokhelox.svg-font-previewer
+[jquery code snippets]: https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets
+[jsflowchart]: https://marketplace.visualstudio.com/items?itemName=MULU-github.jsflowchart
+[pug]: https://marketplace.visualstudio.com/items?itemName=amandeepmittal.pug
+[live pug compiler]: https://marketplace.visualstudio.com/items?itemName=jaheenafsarsyed.live-pug-compiler
+[google fonts]: https://marketplace.visualstudio.com/items?itemName=lior-chamla.google-fonts
 
 ## Snippets
 
