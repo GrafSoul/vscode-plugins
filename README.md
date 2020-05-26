@@ -74,6 +74,7 @@ Using plugins the editor can be turned into a powerful environment for developin
 ### BEM
 
 - **[BEM Helper]** - Improve writing html using BEM naming conventions.
+- **[SCSS BEM Support]** - BEM support for SCSS files.
 
 ### Images
 
@@ -141,6 +142,7 @@ Using plugins the editor can be turned into a powerful environment for developin
 [vscode google translate]: https://marketplace.visualstudio.com/items?itemName=funkyremi.vscode-google-translate
 [project manager]: https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager
 [settings sync]: https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync
+[scss bem support]: https://marketplace.visualstudio.com/items?itemName=joloyonaha.scss-bem-support
 
 ## Snippets
 
