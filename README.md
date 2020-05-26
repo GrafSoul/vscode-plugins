@@ -41,6 +41,8 @@ Using plugins the editor can be turned into a powerful environment for developin
 
 ### Useful
 
+- **[WakaTime]** - Metrics, insights, and time tracking automatically generated from your programming activity.
+- **[Polacode]** - Polaroid for your code.
 - **[Vscode Google Translate]** - Translate text right in your code.
 - **[Path Autocomplete]** - Provides path completion for visual studio code.
 - **[Lorem ipsum]** - Generates and inserts lorem ipsum text.
@@ -49,6 +51,7 @@ Using plugins the editor can be turned into a powerful environment for developin
 - **[Debugger for Chrome]** - Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol. Trouble Installing?
 - **[Project Manager]** - Easily switch between projects.
 - **[Settings Sync]** - Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
+- **[Turbo Console Log]** - SAutomating the process of writing meaningful log messages.
 
 ### JavaScript
 
@@ -162,6 +165,9 @@ Using plugins the editor can be turned into a powerful environment for developin
 [pug]: https://marketplace.visualstudio.com/items?itemName=amandeepmittal.pug
 [live pug compiler]: https://marketplace.visualstudio.com/items?itemName=jaheenafsarsyed.live-pug-compiler
 [google fonts]: https://marketplace.visualstudio.com/items?itemName=lior-chamla.google-fonts
+[wakatime]: https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime
+[turbo console log]: https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log
+[polacode]: https://marketplace.visualstudio.com/items?itemName=pnp.polacode
 
 ## Snippets in PDF files
 
