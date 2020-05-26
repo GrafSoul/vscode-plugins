@@ -17,6 +17,8 @@ Using plugins the editor can be turned into a powerful environment for developin
 
 ## Plugins
 
+### Code Style
+
 - **[All Autocomplete]** - Create autocomplete items from open files in VSCode.
 - **[Auto Close Tag]** - Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text.
 - **[Auto Complete Tag]** - Extension Packs to add close tag and rename paired tag automatically for HTML/XML.
@@ -25,12 +27,32 @@ Using plugins the editor can be turned into a powerful environment for developin
 - **[Prettier]** - Code formatter using prettier.
 - **[Code Spell Checker]** - Spelling checker for source code.
 - **[Code Runner]** Run code snippet or code file for multiple languages.
+- **[Indent Rainbow]** - Makes indentation easier to read.
+- **[Bracket Pair Colorizer]** - A customizable extension for colorizing matching brackets.
+
+### Git
+
 - **[GitLens — Git supercharged]** - Supercharge the Git capabilities built into Visual Studio Code.
+
+### NPM
+
 - **[Version Lens]** - Shows the latest version for each package using code lens.
 - **[Import Cost]** - Display import/require package size in the editor.
+
+### Useful
+
+- **[Vscode Google Translate]** - Translate text right in your code
 - **[Path Autocomplete]** - Provides path completion for visual studio code.
+- **[Lorem ipsum]** - Generates and inserts lorem ipsum text.
 - **[Live Server]** - Launch a development local Server with live reload feature for static & dynamic pages.
 - **[Multiple clipboards for VSCode]** - Override the regular Copy and Cut commands to keep selections in a clipboard ring.
+- **[Debugger for Chrome]** - Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
+  Trouble Installing?
+- **[Project Manager]** - Easily switch between projects
+- **[Settings Sync]** - Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
+
+### JavaScript Snippets
+
 - **[Hyper JavaScript Snippets]** - A collection of snippets that cover JavaScript, TypeScript, and NodeJS for Visual Studio Code.
 - **[JavaScript (ES6) code snippets]** - Code snippets for JavaScript in ES6 syntax.
 - **[ES7 React/Redux/GraphQL/React-Native Snippets]** - Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax.
@@ -38,17 +60,42 @@ Using plugins the editor can be turned into a powerful environment for developin
 - **[Vue 3 Snippets]** - This extension adds Vue 3 and Vue 2 Code Snippets into Visual Studio Code.
 - **[Babel JavaScript]** - VSCode syntax highlighting for today's JavaScript, ported from gandm's language-babel for Atom.
 - **[ESLint]** - Integrates ESLint JavaScript into VS Code.
-- **[Sass]** - Indented Sass syntax Highlighting, Autocomplete & Formatter.
 - **[Quokka]** - Live Scratchpad for JavaScript.
+
+### CSS & PreCSS
+
+- **[Sass]** - Indented Sass syntax Highlighting, Autocomplete & Formatter.
+- **[Live Sass Compiler]** - Compile Sass or Scss to CSS at realtime with live browser reload.
+- **[SCSS IntelliSense]** - Advanced autocompletion and refactoring support for SCSS.
+- **[SCSS Formatter]** - Advanced autocompletion and refactoring support for SCSS.
+- **[eCSStractor]** - Extracting selectors from HTML and generate CSS stylesheet.
+- **[CSS Navigation]** - Allows Go to Definition from HTML to CSS; provides Completion and Workspace Symbols for class & id name; supports CSS, Sass, Less languages.
+
+### BEM
+
+- **[BEM Helper]** - Improve writing html using BEM naming conventions.
+
+### Images
+
+- **[Image preview]** - Shows image preview in the gutter and on hover
+
+### TODO
+
 - **[TODO Highlight]** - Highlight TODOs, FIXMEs, and any keywords, annotations...
-- **[Indent Rainbow]** - Makes indentation easier to read.
-- **[Bracket Pair Colorizer]** - A customizable extension for colorizing matching brackets.
-- **[Lorem ipsum]** - Generates and inserts lorem ipsum text.
+- **[Better Comments]** - Improve your code commenting by annotating with alert, informational, TODOs, and more!
+
+### Themes
+
 - **[Theme - Oceanic Next]** - Oceanic Next theme for VSCode + dimmed bg version for better looking UI.
 - **[vscode-icons]** - Icons for Visual Studio Code.
+
+### File Converters
+
 - **[Markdown PDF]** - This extension converts Markdown files to pdf, html, png or jpeg files.
+
+### PDF
+
 - **[vscode-pdf]** - Display pdf file in VSCode.
-- **[Live Sass Compiler]** - Compile Sass or Scss to CSS at realtime with live browser reload.
 
 [vscode]: https://code.visualstudio.com/
 [all autocomplete]: https://marketplace.visualstudio.com/items?itemName=Atishay-Jain.All-Autocomplete
@@ -83,6 +130,17 @@ Using plugins the editor can be turned into a powerful environment for developin
 [hyper javascript snippets]: https://marketplace.visualstudio.com/items?itemName=t7yang.hyper-javascript-snippets
 [code spell checker]: https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
 [live sass compiler]: https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass
+[scss intellisense]: https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss
+[scss formatter]: https://marketplace.visualstudio.com/items?itemName=sibiraj-s.vscode-scss-formatter
+[better comments]: https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
+[bem helper]: https://marketplace.visualstudio.com/items?itemName=Box-Of-Hats.bemhelper
+[ecsstractor]: https://marketplace.visualstudio.com/items?itemName=kubosho.ecsstractor
+[css navigation]: https://marketplace.visualstudio.com/items?itemName=pucelle.vscode-css-navigation
+[image preview]: https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview
+[debugger for chrome]: https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
+[vscode google translate]: https://marketplace.visualstudio.com/items?itemName=funkyremi.vscode-google-translate
+[project manager]: https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager
+[settings sync]: https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync
 
 ## Snippets
 
