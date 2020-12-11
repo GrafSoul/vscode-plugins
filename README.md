@@ -66,6 +66,12 @@ Using plugins the editor can be turned into a powerful environment for developin
 - **[ESLint]** - Integrates ESLint JavaScript into VS Code.
 - **[Quokka]** - Live Scratchpad for JavaScript.
 
+### GraphQL
+
+- **[GraphQL]** - GraphQL extension for VSCode adds syntax highlighting, validation, and language features like go to definition, hover information and autocompletion for graphql projects. This extension also works with queries annotated with gql tag.
+- **[Apollo GraphQL]** - Rich editor support for GraphQL client and server development that seamlessly integrates with the Apollo platform.
+- **[GraphQL for VSCode]** - GraphQL syntax highlighting, linting, auto-complete, and more!.
+
 ### CSS & PreCSS
 
 - **[Sass]** - Indented Sass syntax Highlighting, Autocomplete & Formatter.
@@ -168,6 +174,9 @@ Using plugins the editor can be turned into a powerful environment for developin
 [wakatime]: https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime
 [turbo console log]: https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log
 [polacode]: https://marketplace.visualstudio.com/items?itemName=pnp.polacode
+[apollo graphql]: https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo
+[graphql]: https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql
+[graphql for vscode]: https://marketplace.visualstudio.com/items?itemName=kumar-harsh.graphql-for-vscode
 
 ## Snippets in PDF files
 
