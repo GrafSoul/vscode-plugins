@@ -29,6 +29,7 @@ Using plugins the editor can be turned into a powerful environment for developin
 - **[Code Runner]** Run code snippet or code file for multiple languages.
 - **[Indent Rainbow]** - Makes indentation easier to read.
 - **[Bracket Pair Colorizer]** - A customizable extension for colorizing matching brackets.
+- **[Path Intellisense]** - Visual Studio Code plugin that autocompletes filenames
 
 ### Git
 
@@ -65,6 +66,10 @@ Using plugins the editor can be turned into a powerful environment for developin
 - **[jQuery Code Snippets]** - Over 130 jQuery Code Snippets.
 - **[ESLint]** - Integrates ESLint JavaScript into VS Code.
 - **[Quokka]** - Live Scratchpad for JavaScript.
+
+### TypeScript
+
+- **[TSLint]** - TSLint support for Visual Studio Code.
 
 ### GraphQL
 
@@ -177,6 +182,8 @@ Using plugins the editor can be turned into a powerful environment for developin
 [apollo graphql]: https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo
 [graphql]: https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql
 [graphql for vscode]: https://marketplace.visualstudio.com/items?itemName=kumar-harsh.graphql-for-vscode
+[path intellisense]: https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
+[tslint]: https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin
 
 ## Snippets in PDF files
 
