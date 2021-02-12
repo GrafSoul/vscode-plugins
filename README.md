@@ -40,6 +40,11 @@ Using plugins the editor can be turned into a powerful environment for developin
 - **[Version Lens]** - Shows the latest version for each package using code lens.
 - **[Import Cost]** - Display import/require package size in the editor.
 
+### Deno
+
+- **[Deno]** - Deno support for VSCode.
+- **[deno-vscode]** - A deno extension for vscode to make it easier for developers.
+
 ### Useful
 
 - **[WakaTime]** - Metrics, insights, and time tracking automatically generated from your programming activity.
@@ -191,6 +196,8 @@ Using plugins the editor can be turned into a powerful environment for developin
 [tslint]: https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin
 [mjml]: https://marketplace.visualstudio.com/items?itemName=attilabuti.vscode-mjml
 [mjml snippets]: https://marketplace.visualstudio.com/items?itemName=kvnol.mjml-snippets
+[deno]: https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno
+[deno-vscode]: https://marketplace.visualstudio.com/items?itemName=ameerthehacker.deno-vscode
 
 ## Snippets in PDF files
 
