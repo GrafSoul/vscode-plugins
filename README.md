@@ -120,6 +120,11 @@ Using plugins the editor can be turned into a powerful environment for developin
 
 - **[Markdown PDF]** - This extension converts Markdown files to pdf, html, png or jpeg files.
 
+## MJML for Emails
+
+- **[MJML]** - MJML preview, lint, compile for Visual Studio Code.
+- **[MJML Snippets]** - MJML Snippets for Virtual Studio Code.
+
 ### PDF
 
 - **[vscode-pdf]** - Display pdf file in VSCode.
@@ -184,6 +189,8 @@ Using plugins the editor can be turned into a powerful environment for developin
 [graphql for vscode]: https://marketplace.visualstudio.com/items?itemName=kumar-harsh.graphql-for-vscode
 [path intellisense]: https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
 [tslint]: https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin
+[mjml]: https://marketplace.visualstudio.com/items?itemName=attilabuti.vscode-mjml
+[mjml snippets]: https://marketplace.visualstudio.com/items?itemName=kvnol.mjml-snippets
 
 ## Snippets in PDF files
 
