@@ -58,6 +58,7 @@ Using plugins the editor can be turned into a powerful environment for developin
 - **[Project Manager]** - Easily switch between projects.
 - **[Settings Sync]** - Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
 - **[Turbo Console Log]** - SAutomating the process of writing meaningful log messages.
+- **[VScode Backup]** - Backup/Restore VSCode Settings and plugins.
 
 ### JavaScript
 
@@ -198,6 +199,7 @@ Using plugins the editor can be turned into a powerful environment for developin
 [mjml snippets]: https://marketplace.visualstudio.com/items?itemName=kvnol.mjml-snippets
 [deno]: https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno
 [deno-vscode]: https://marketplace.visualstudio.com/items?itemName=ameerthehacker.deno-vscode
+[vscode backup]: https://marketplace.visualstudio.com/items?itemName=westenets.vscode-backup
 
 ## Snippets in PDF files
 
