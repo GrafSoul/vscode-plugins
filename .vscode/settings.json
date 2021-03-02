@@ -1,0 +1,40 @@
+{
+  "workbench.colorCustomizations": {
+    "titleBar.activeForeground": "#c8c8c8",
+    "titleBar.inactiveForeground": "#c8c8c8",
+    "titleBar.activeBackground": "#1c2646",
+    "titleBar.inactiveBackground": "#1c2646",
+    "terminal.background":"#181818",
+    "terminal.foreground":"#d8d8d8",
+    "terminalCursor.background":"#d8d8d8",
+    "terminalCursor.foreground":"#d8d8d8",
+    "terminal.ansiBlack":"#181818",
+    "terminal.ansiBlue":"#7cafc2",
+    "terminal.ansiBrightBlack":"#585858",
+    "terminal.ansiBrightBlue":"#7cafc2",
+    "terminal.ansiBrightCyan":"#86c1B9",
+    "terminal.ansiBrightGreen":"#a1b56c",
+    "terminal.ansiBrightMagenta":"#ba8baf",
+    "terminal.ansiBrightRed":"#ab4642",
+    "terminal.ansiBrightWhite":"#f8f8f8",
+    "terminal.ansiBrightYellow":"#f7ca88",
+    "terminal.ansiCyan":"#86c1b9",
+    "terminal.ansiGreen":"#a1b56c",
+    "terminal.ansiMagenta":"#ba8baf",
+    "terminal.ansiRed":"#ab4642",
+    "terminal.ansiWhite":"#d8d8d8",
+    "terminal.ansiYellow":"#f7ca88"
+  },
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": true
+  },
+  "eslint.alwaysShowStatus": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "prettier.disableLanguages": [""],
+}

@@ -15,6 +15,53 @@ Using plugins the editor can be turned into a powerful environment for developin
 [macos]: https://github.com/GrafSoul/vscode-plugins/blob/master/doc/keyboard-shortcuts-macos.pdf
 [linux]: https://github.com/GrafSoul/vscode-plugins/blob/master/doc/keyboard-shortcuts-linux.pdf
 
+## Editor Settings
+
+Place the code in the settings.json file and place it in the .vscode folder in the project root.
+
+```javascript
+{
+  "workbench.colorCustomizations": {
+    "titleBar.activeForeground": "#c8c8c8",
+    "titleBar.inactiveForeground": "#c8c8c8",
+    "titleBar.activeBackground": "#1c2646",
+    "titleBar.inactiveBackground": "#1c2646",
+    "terminal.background":"#181818",
+    "terminal.foreground":"#d8d8d8",
+    "terminalCursor.background":"#d8d8d8",
+    "terminalCursor.foreground":"#d8d8d8",
+    "terminal.ansiBlack":"#181818",
+    "terminal.ansiBlue":"#7cafc2",
+    "terminal.ansiBrightBlack":"#585858",
+    "terminal.ansiBrightBlue":"#7cafc2",
+    "terminal.ansiBrightCyan":"#86c1B9",
+    "terminal.ansiBrightGreen":"#a1b56c",
+    "terminal.ansiBrightMagenta":"#ba8baf",
+    "terminal.ansiBrightRed":"#ab4642",
+    "terminal.ansiBrightWhite":"#f8f8f8",
+    "terminal.ansiBrightYellow":"#f7ca88",
+    "terminal.ansiCyan":"#86c1b9",
+    "terminal.ansiGreen":"#a1b56c",
+    "terminal.ansiMagenta":"#ba8baf",
+    "terminal.ansiRed":"#ab4642",
+    "terminal.ansiWhite":"#d8d8d8",
+    "terminal.ansiYellow":"#f7ca88"
+  },
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": true
+  },
+  "eslint.alwaysShowStatus": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "prettier.disableLanguages": [""],
+}
+```
+
 ## Useful Plugins
 
 ### Code Style
@@ -30,6 +77,7 @@ Using plugins the editor can be turned into a powerful environment for developin
 - **[Indent Rainbow]** - Makes indentation easier to read.
 - **[Bracket Pair Colorizer]** - A customizable extension for colorizing matching brackets.
 - **[Path Intellisense]** - Visual Studio Code plugin that autocompletes filenames
+- **[Styled Components]** - Syntax highlighting for styled-components
 
 ### Git
 
@@ -200,6 +248,7 @@ Using plugins the editor can be turned into a powerful environment for developin
 [deno]: https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno
 [deno-vscode]: https://marketplace.visualstudio.com/items?itemName=ameerthehacker.deno-vscode
 [vscode backup]: https://marketplace.visualstudio.com/items?itemName=westenets.vscode-backup
+[styled components]: https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components
 
 ## Snippets in PDF files
 
